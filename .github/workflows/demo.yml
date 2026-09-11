@@ -9,4 +9,4 @@ jobs:
       - name: Print a few lines
         run: |
           echo First line!
-          ecgo Second line!
+          echo Second line!
